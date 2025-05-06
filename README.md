@@ -14,18 +14,18 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 
 ## **-->> 📂 Lending-Club-Loan-Data-Analysis-EDA-Project Folder Contains**
 
--Data_Dictionary.xlsx File (Explaination And FullForms Of The Columns)
--ZOMATO_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
--ZOMATO_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (PowerPoint Presentation Slides Pdf File)
--DATA CSV FOLDER CONTAINS ORIGINAL DATASET
+- Data_Dictionary.xlsx File (Explaination And FullForms Of The Columns)
+- ZOMATO_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
+- ZOMATO_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (PowerPoint Presentation Slides Pdf File)
+- DATA CSV FOLDER CONTAINS ORIGINAL DATASET
 
 
 ## **📌 Key Objectives :-**
 
--Cleaned and preprocessed the dataset to remove nulls, duplicates, and irrelevant columns
--Analyzed features like restaurant types, cuisines, average cost, online delivery availability, and ratings
--Visualized insights using bar plots, pie charts, and heatmaps to make data interpretation intuitive
--Highlighted areas with high restaurant density and popular food trends in Bengaluru
+- Cleaned and preprocessed the dataset to remove nulls, duplicates, and irrelevant columns
+- Analyzed features like restaurant types, cuisines, average cost, online delivery availability, and ratings
+- Visualized insights using bar plots, pie charts, and heatmaps to make data interpretation intuitive
+- Highlighted areas with high restaurant density and popular food trends in Bengaluru
 
 ## **🔧 Tools & Technologies Used :-**
 
@@ -58,4 +58,4 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 
 **🎯 Outcome :-**
 
--Gained valuable insights into customer preferences and restaurant patterns in a major city, helping to make data-driven decisions in the food delivery domain.
+- Gained valuable insights into customer preferences and restaurant patterns in a major city, helping to make data-driven decisions in the food delivery domain.
