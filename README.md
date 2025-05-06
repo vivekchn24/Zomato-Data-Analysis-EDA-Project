@@ -29,7 +29,7 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 
 ## **🔧 Tools & Technologies Used :-**
 
--Python (Pandas, NumPy, Matplotlib, Seaborn) Libraries
+- Python (Pandas, NumPy, Matplotlib, Seaborn) Libraries
 - Jupyter Notebook via Anaconda
 - Data Cleaning & Preprocessing
 - Data Visualization
