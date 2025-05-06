@@ -14,7 +14,6 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 
 ## **-->> 📂 Lending-Club-Loan-Data-Analysis-EDA-Project Folder Contains**
 
-- Data_Dictionary.xlsx File (Explaination And FullForms Of The Columns)
 - ZOMATO_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
 - ZOMATO_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (PowerPoint Presentation Slides Pdf File)
 - DATA CSV FOLDER CONTAINS ORIGINAL DATASET
