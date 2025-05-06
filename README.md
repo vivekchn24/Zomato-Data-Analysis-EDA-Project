@@ -2,17 +2,17 @@
 
 This project involves performing Exploratory Data Analysis (EDA) on the Zomato dataset focused on restaurants in Bengaluru. The main objective was to understand dining trends, popular cuisines, rating patterns, and the distribution of restaurants across different locations in the city.
 
-**🍽️ Exploratory Data Analysis on Zomato Bengaluru Dataset :-**
+## **🍽️ Exploratory Data Analysis on Zomato Bengaluru Dataset :-**
 
 This dataset is a collection of restaurants that are registered on Zomato in Bengaluru City. In this dataset, we have more than 50000 rows and 17 columns, a fairly large dataset. You will be able to get hands-on experience while performing the following tasks and will be able to understand how real-world problem statement analysis is done.
 
-**-->> 📁 Dataset**
+## **-->> 📁 Dataset**
 
 - ""Source"": Zomato public dataset (Downloaded from Kaggle / <a href = "https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset" > official source </a> )
 - ""Rows"": Aprrox 50,000+
 - ""Columns"": 17+ (various Restaurants & Restaurants Types,Payment details,etc.)
 
-**-->> 📂 Lending-Club-Loan-Data-Analysis-EDA-Project Folder Contains**
+## **-->> 📂 Lending-Club-Loan-Data-Analysis-EDA-Project Folder Contains**
 
 -Data_Dictionary.xlsx File (Explaination And FullForms Of The Columns)
 -ZOMATO_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
@@ -20,14 +20,14 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 -DATA CSV FOLDER CONTAINS ORIGINAL DATASET
 
 
-**📌 Key Objectives :-**
+## **📌 Key Objectives :-**
 
 -Cleaned and preprocessed the dataset to remove nulls, duplicates, and irrelevant columns
 -Analyzed features like restaurant types, cuisines, average cost, online delivery availability, and ratings
 -Visualized insights using bar plots, pie charts, and heatmaps to make data interpretation intuitive
 -Highlighted areas with high restaurant density and popular food trends in Bengaluru
 
-**🔧 Tools & Technologies Used :-**
+## **🔧 Tools & Technologies Used :-**
 
 -Python (Pandas, NumPy, Matplotlib, Seaborn) Libraries
 - Jupyter Notebook via Anaconda
@@ -35,7 +35,7 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 - Data Visualization
 - Statistical Analysis
 
-**📌 Key Steps Performed In EDA Analysis**
+## **📌 Key Steps Performed In EDA Analysis**
 
 1. Data Cleaning
    - Handling missing values
