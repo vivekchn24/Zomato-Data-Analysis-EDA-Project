@@ -91,13 +91,13 @@ ratings "above 2.0", but a few fall "below 2.0".
 13.Here,you can see the 'Chicken','Biryani',"Pizza" is a most frequent words while placed order or you can say
 Most Favourite dishes of the Customers.
 
-14You can see clearly the winner is in the category of cuisines is 'North’.
+14.You can see clearly the winner is in the category of cuisines is 'North’.
 
-15 You can see clearly the most favourite menu item is 'Chicken’.
+15.You can see clearly the most favourite menu item is 'Chicken’.
 
-16You can see the most of the placed order location is 'Koramangala',& second position is 'BTM’.
+16.You can see the most of the placed order location is 'Koramangala',& second position is 'BTM’.
 
-17)Most of the order placed location is 'Bangalore' cause whole the dataset belongs to Bangalore.
+17.Most of the order placed location is 'Bangalore' cause whole the dataset belongs to Bangalore.
 
 ## **📌 Disclaimer:**
 
