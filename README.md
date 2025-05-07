@@ -99,6 +99,8 @@ Most Favourite dishes of the Customers.
 
 17.Most of the order placed location is 'Bangalore' cause whole the dataset belongs to Bangalore.
 
+## **📎 This project does not include business insights. It is intended for practice only.**
+
 ## **⚠️ Important:-**
 
 - The code, analysis, and outputs in this project are not to be copied and used elsewhere, including in resumes or other projects that's why i attached jupyter notebook pdf only.The goal of this project is to practice and improve my skills, not to provide ready-to-use solutions.
